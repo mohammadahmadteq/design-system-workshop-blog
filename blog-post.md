@@ -10,5 +10,5 @@ Firstly, lets list all of the potential technologies any team would need in orde
 
 4. Version control systems: Version control systems, such as Git, allow for collaboration and management of the design system codebase. They provide a way to track changes, revert to previous versions, and collaborate with team members on the design system.
 
-5. CMS and integration tools: Content management systems (CMS) and integration tools, such as WordPress and Webflow, can be used to integrate the design system into different products and services. They provide a way to manage content and automate the application of the design system, making it easier to maintain consistency across different touchpoints.
 
+Taking the example of React.js and Ant design we can use both of these technologies to create a design system. A highlight of the version 5 of Ant design is the theme system which utilizes CSSinJS to have customizable design tokens. 
